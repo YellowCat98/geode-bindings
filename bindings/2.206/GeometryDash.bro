@@ -8227,7 +8227,7 @@ class GJMoreGamesLayer : GJDropDownLayer {
 
 	TodoReturn getMoreGamesList();
 
-	virtual void customSetup() = m1 0x6a9344;
+	virtual void customSetup() = m1 0x6a9344, win 0x26e460;
 }
 
 [[link(android)]]
