@@ -2564,7 +2564,7 @@ class CreatorLayer : cocos2d::CCLayer, cocos2d::CCSceneTransitionDelegate, Dialo
 	void onAdventureMap(cocos2d::CCObject* sender) = win 0x9c3a0, imac 0x294840, m1 0x237864;
 	void onBack(cocos2d::CCObject* sender) = win 0x9d9c0, imac 0x2959a0, m1 0x238978, ios 0xb90d0;
 	void onChallenge(cocos2d::CCObject* sender) = win 0x9c770, imac 0x2948b0, m1 0x2378f4;
-	void onDailyLevel(cocos2d::CCObject* sender) = win 0x9c510, imac 0x2948e0, m1 0x23792c;
+	void onDailyLevel(cocos2d::CCObject* sender) = win 0x9c510, imac 0x2948e0, m1 0x23792c, ios 0xb862c;
 	void onEventLevel(cocos2d::CCObject* sender) = win 0x9c550, imac 0x294920, m1 0x23796c;
 	void onFameLevels(cocos2d::CCObject* sender) = imac 0x295a10, m1 0x2389e0;
 	void onFeaturedLevels(cocos2d::CCObject* sender) = win 0x9ba60, imac 0x294b10, m1 0x237b5c;
